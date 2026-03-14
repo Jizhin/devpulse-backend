@@ -1,0 +1,26 @@
+# Environment variables - NEVER commit
+.env
+
+# Database
+db.sqlite3
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Static files
+staticfiles/
+media/
