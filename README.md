@@ -4,24 +4,6 @@
 
 DevPulse connects to your GitHub or GitLab repositories and automatically reviews every Pull Request using Gemini AI — flagging security vulnerabilities, performance issues, logic errors, and bad practices. It also tracks developer analytics, repo health, and gives every engineer a quality score.
 
----
-
-## Screenshots
-
-### Dashboard
-
-
-### AI Code Review
-![AI Reviews](screenshots/reviews.png)
-
-### Developer Analytics Leaderboard
-![Analytics](screenshots/analytics.png)
-
-### Developer Detail Profile
-![Developer Detail](screenshots/developer-detail.png)
-
----
-
 ## Features
 
 - **AI Code Reviews** — connects to GitHub/GitLab, select a PR, Gemini AI reviews it in seconds. Flags critical issues, warnings, and suggestions with code snippets and fix recommendations.
