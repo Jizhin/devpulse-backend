@@ -79,7 +79,7 @@ devpulse-backend/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOURUSERNAME/devpulse-backend.git
+git clone https://github.com/Jizhin/devpulse-backend.git
 cd devpulse-backend
 
 # Create virtual environment
